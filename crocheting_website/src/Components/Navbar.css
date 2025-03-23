@@ -6,6 +6,8 @@
   padding: 1rem 2rem;
   background-color: beige;
   color: #ffffff;
+  position: sticky;
+  top: 0;
 }
 
 .navbar .logo a {
