@@ -1,0 +1,21 @@
+.hero_container {
+  width: 100%;
+  display: flex;
+  max-width: 1200px;
+}
+.hero_left {
+  width: 50%;
+  display: flex;
+}
+.hero_right {
+  width: 50%;
+  display: flex;
+}
+.hero_image {
+  width: 80%;
+  height: auto;
+  object-fit: cover;
+}
+.hero_button_shop, .hero_button_order {
+    padding: 10px 20px;
+}
